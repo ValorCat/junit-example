@@ -1,2 +1,1 @@
-# junit-example
-An example of Junit testing
+This is an example of Junit testing in Java.
