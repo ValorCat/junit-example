@@ -1,6 +1,7 @@
 package csci360;
 
 /**
+ * This is the class to be tested by Junit.
  * @author Anthony Morrell
  * @since 10/26/2017
  */
